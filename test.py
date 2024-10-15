@@ -1,1 +1,1 @@
-pri"Helloooooo!!! v8")
+print("Helloooooo!!! v8")
